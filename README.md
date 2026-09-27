@@ -21,7 +21,7 @@ overall business performance.
 - Category Performance
 
 ## 📈 Dashboard
-"C:\Users\USER\Pictures\Screenshots\Screenshot 2026-07-12 220039.png"
+Screenshot 2026-07-12 220039.png
 
 ## 📁 Project Files
 - Dataset – Raw sales data
